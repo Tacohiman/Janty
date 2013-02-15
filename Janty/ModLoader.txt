@@ -1,0 +1,8 @@
+Feb 14, 2013 9:35:25 PM net.minecraft.src.ModLoader init
+FINE: ModLoader 1.4.7 Initializing...
+Feb 14, 2013 9:35:25 PM net.minecraft.src.ModLoader readFromClassPath
+FINER: Adding mods from C:\Users\Tyler\Desktop\Java\mcp726a\src\bin
+Feb 14, 2013 9:35:25 PM net.minecraft.src.ModLoader readFromClassPath
+FINER: Directory found.
+Feb 14, 2013 9:35:25 PM net.minecraft.src.ModLoader addAllRenderers
+FINE: Initialized
